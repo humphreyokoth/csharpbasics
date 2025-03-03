@@ -27,32 +27,52 @@ namespace MyFirstProject
             //int balance = 1000;
             //string number = "0705188046";
             //int age = 25;
-            int num1 = 10;
-            int num2 = 2;
+            //int num1 = 10;
+            //int num2 = 2;
 
-            int reminder = num1 % num2;
-            //Console.WriteLine("Hello my name is Humphrey");
-            Console.WriteLine("Enter your name: ");
-
-
-            string name = Console.ReadLine();
-            Console.Write(name);
-            Console.WriteLine("Enter your age: ");
-            string ageInput = Console.ReadLine();   
-            int age = Convert.ToInt32(ageInput);
+            //int reminder = num1 % num2;
+            ////Console.WriteLine("Hello my name is Humphrey");
+            //Console.WriteLine("Enter your name: ");
 
 
-            if (age >=  25 && age <=25 )
+            //string name = Console.ReadLine();
+            //Console.Write(name);
+            //Console.WriteLine("Enter your age: ");
+            //string ageInput = Console.ReadLine();   
+            //int age = Convert.ToInt32(ageInput);
+
+
+            //if (age >=  25 && age <=25 )
+            //{
+            //    Console.WriteLine("Your age is between 18 and 25");
+            //}
+            //else if (age >= 25)
+            //{
+            //    Console.WriteLine("Your are 25 or older"); 
+
+            //}
+
+            //    Console.WriteLine("Your name is:" + name + "and your age is " + age);
+            //Console.ReadLine();
+            Console.WriteLine("Enter the first number");
+            int numberA = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Enter the second number");
+            int numberB = Convert.ToInt32(Console.ReadLine());
+
+            int answer = numberA * numberB;
+
+            Console.WriteLine( "Value of  "+ numberA + " * " + numberB + " :");
+            string answerInput = Console.ReadLine();
+            int actualAnswer = Convert.ToInt32(answerInput);
+
+            if (answer == actualAnswer)
             {
-                Console.WriteLine("Your age is between 18 and 25");
+                Console.WriteLine("Well done"); 
             }
-            else if (age >= 25)
+            else
             {
-                Console.WriteLine("Your are 25 or older"); 
-
+                Console.WriteLine("You are wrong");
             }
-
-                Console.WriteLine("Your name is:" + name + "and your age is " + age);
             Console.ReadLine();
 
         }
