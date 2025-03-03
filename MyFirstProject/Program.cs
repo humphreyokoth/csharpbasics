@@ -38,12 +38,21 @@ namespace MyFirstProject
             string name = Console.ReadLine();
             Console.Write(name);
             Console.WriteLine("Enter your age: ");
-            string age = Console.ReadLine(); 
-            
-         
+            string ageInput = Console.ReadLine();   
+            int age = Convert.ToInt32(ageInput);
 
 
-            Console.WriteLine("Your name is:"+ name  +"and your age is "+ age);
+            if (age >=  25 && age <=25 )
+            {
+                Console.WriteLine("Your age is between 18 and 25");
+            }
+            else if (age >= 25)
+            {
+                Console.WriteLine("Your are 25 or older"); 
+
+            }
+
+                Console.WriteLine("Your name is:" + name + "and your age is " + age);
             Console.ReadLine();
 
         }
