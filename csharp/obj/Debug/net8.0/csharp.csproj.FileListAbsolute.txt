@@ -1,0 +1,14 @@
+/var/www/html/csharp/csharp/bin/Debug/net8.0/csharp
+/var/www/html/csharp/csharp/bin/Debug/net8.0/csharp.deps.json
+/var/www/html/csharp/csharp/bin/Debug/net8.0/csharp.runtimeconfig.json
+/var/www/html/csharp/csharp/bin/Debug/net8.0/csharp.dll
+/var/www/html/csharp/csharp/bin/Debug/net8.0/csharp.pdb
+/var/www/html/csharp/csharp/obj/Debug/net8.0/csharp.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/csharp/csharp/obj/Debug/net8.0/csharp.AssemblyInfoInputs.cache
+/var/www/html/csharp/csharp/obj/Debug/net8.0/csharp.AssemblyInfo.cs
+/var/www/html/csharp/csharp/obj/Debug/net8.0/csharp.csproj.CoreCompileInputs.cache
+/var/www/html/csharp/csharp/obj/Debug/net8.0/csharp.dll
+/var/www/html/csharp/csharp/obj/Debug/net8.0/refint/csharp.dll
+/var/www/html/csharp/csharp/obj/Debug/net8.0/csharp.pdb
+/var/www/html/csharp/csharp/obj/Debug/net8.0/csharp.genruntimeconfig.cache
+/var/www/html/csharp/csharp/obj/Debug/net8.0/ref/csharp.dll
