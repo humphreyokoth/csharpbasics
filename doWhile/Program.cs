@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace whileLoop
+namespace doWhile
 {
     class Program
     {
@@ -16,11 +16,11 @@ namespace whileLoop
             else
             {
                 int i = 0;
-                while (i < times)
+                do
                 {
                     Console.WriteLine("Hello");
                     i++;
-                }
+                } while (i < times);
             }
 
             Console.WriteLine("Enter a number: ");
@@ -35,8 +35,8 @@ namespace whileLoop
             Console.WriteLine("What is the value of "+ numberA +" * "+ numberB +"?");
             Console.WriteLine();
 
-            while(answer != actualAnswer){  
-
+            do
+            {
                 Console.Write("Enter your answer: ");
                 string actualAnswerInput = Console.ReadLine();
                 actualAnswer = Convert.ToInt32(actualAnswerInput);
@@ -45,10 +45,7 @@ namespace whileLoop
                     Console.WriteLine("Not correct try again");
                 }
                 Console.WriteLine("Well done ");
-
-            }
-
-            
+            } while (answer != actualAnswer);
         }
     }
 }

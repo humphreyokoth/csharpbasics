@@ -1,0 +1,15 @@
+/var/www/html/csharp/doWhile/bin/Debug/net8.0/doWhile
+/var/www/html/csharp/doWhile/bin/Debug/net8.0/doWhile.deps.json
+/var/www/html/csharp/doWhile/bin/Debug/net8.0/doWhile.runtimeconfig.json
+/var/www/html/csharp/doWhile/bin/Debug/net8.0/doWhile.dll
+/var/www/html/csharp/doWhile/bin/Debug/net8.0/doWhile.pdb
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.AssemblyInfoInputs.cache
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.AssemblyInfo.cs
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.csproj.CoreCompileInputs.cache
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.sourcelink.json
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.dll
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/refint/doWhile.dll
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.pdb
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/doWhile.genruntimeconfig.cache
+/var/www/html/csharp/doWhile/obj/Debug/net8.0/ref/doWhile.dll
