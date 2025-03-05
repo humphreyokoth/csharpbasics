@@ -42,7 +42,7 @@ namespace whileLoop
                 actualAnswer = Convert.ToInt32(actualAnswerInput);
                 if (actualAnswer != answer)
                 {
-                    Console.WriteLine("Correct!");
+                    Console.WriteLine("Not correct try again");
                 }
                 Console.WriteLine("Well done ");
 
