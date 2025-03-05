@@ -1,0 +1,15 @@
+/var/www/html/csharp/printAnumber/bin/Debug/net8.0/printAnumber
+/var/www/html/csharp/printAnumber/bin/Debug/net8.0/printAnumber.deps.json
+/var/www/html/csharp/printAnumber/bin/Debug/net8.0/printAnumber.runtimeconfig.json
+/var/www/html/csharp/printAnumber/bin/Debug/net8.0/printAnumber.dll
+/var/www/html/csharp/printAnumber/bin/Debug/net8.0/printAnumber.pdb
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.AssemblyInfoInputs.cache
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.AssemblyInfo.cs
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.csproj.CoreCompileInputs.cache
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.sourcelink.json
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.dll
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/refint/printAnumber.dll
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.pdb
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/printAnumber.genruntimeconfig.cache
+/var/www/html/csharp/printAnumber/obj/Debug/net8.0/ref/printAnumber.dll

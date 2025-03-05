@@ -9,13 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "whileLoop", "whileLoop\whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "doWhile", "doWhile\doWhile.csproj", "{16E6CCB1-4DA2-4204-A797-18F25037EF82}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "printAnumber", "printAnumber\printAnumber.csproj", "{1203B3AC-D418-4540-BAD9-FDD9D62216AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{A67A6DF7-BBD4-4CDD-84E9-CDB70F8856CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +29,12 @@ Global
 		{16E6CCB1-4DA2-4204-A797-18F25037EF82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{16E6CCB1-4DA2-4204-A797-18F25037EF82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{16E6CCB1-4DA2-4204-A797-18F25037EF82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1203B3AC-D418-4540-BAD9-FDD9D62216AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1203B3AC-D418-4540-BAD9-FDD9D62216AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1203B3AC-D418-4540-BAD9-FDD9D62216AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1203B3AC-D418-4540-BAD9-FDD9D62216AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
 	EndGlobalSection
 EndGlobal

@@ -45,7 +45,11 @@ namespace doWhile
                     Console.WriteLine("Not correct try again");
                 }
                 Console.WriteLine("Well done ");
+                
+                
             } while (answer != actualAnswer);
+
+          
         }
     }
 }
