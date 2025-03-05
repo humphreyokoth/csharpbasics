@@ -1,0 +1,15 @@
+/var/www/html/csharp/fizzbuzz/bin/Debug/net8.0/fizzbuzz
+/var/www/html/csharp/fizzbuzz/bin/Debug/net8.0/fizzbuzz.deps.json
+/var/www/html/csharp/fizzbuzz/bin/Debug/net8.0/fizzbuzz.runtimeconfig.json
+/var/www/html/csharp/fizzbuzz/bin/Debug/net8.0/fizzbuzz.dll
+/var/www/html/csharp/fizzbuzz/bin/Debug/net8.0/fizzbuzz.pdb
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.AssemblyInfoInputs.cache
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.AssemblyInfo.cs
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.csproj.CoreCompileInputs.cache
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.sourcelink.json
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.dll
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/refint/fizzbuzz.dll
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.pdb
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/fizzbuzz.genruntimeconfig.cache
+/var/www/html/csharp/fizzbuzz/obj/Debug/net8.0/ref/fizzbuzz.dll
