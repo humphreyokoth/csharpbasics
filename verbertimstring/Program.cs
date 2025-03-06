@@ -10,6 +10,9 @@ namespace verbatim
         static void Main(string[] args)
         {
 
+
+            string path  = "C:\\Users\\John\\Documents\\Project";
+            Console.WriteLine(path);
             // Console.WriteLine("");
             string hello = @"Hello
                 World
