@@ -1,0 +1,15 @@
+/var/www/html/csharp/verbertimstring/bin/Debug/net8.0/verbertimstring
+/var/www/html/csharp/verbertimstring/bin/Debug/net8.0/verbertimstring.deps.json
+/var/www/html/csharp/verbertimstring/bin/Debug/net8.0/verbertimstring.runtimeconfig.json
+/var/www/html/csharp/verbertimstring/bin/Debug/net8.0/verbertimstring.dll
+/var/www/html/csharp/verbertimstring/bin/Debug/net8.0/verbertimstring.pdb
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.AssemblyInfoInputs.cache
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.AssemblyInfo.cs
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.csproj.CoreCompileInputs.cache
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.sourcelink.json
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.dll
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/refint/verbertimstring.dll
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.pdb
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/verbertimstring.genruntimeconfig.cache
+/var/www/html/csharp/verbertimstring/obj/Debug/net8.0/ref/verbertimstring.dll
