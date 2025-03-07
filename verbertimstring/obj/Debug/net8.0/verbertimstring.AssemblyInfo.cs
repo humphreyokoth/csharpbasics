@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("verbertimstring")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d0977af17211d08841dcb317c6fdd00f95d96da8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1cd9578e2a330c28053763862e431e93aaa0da42")]
 [assembly: System.Reflection.AssemblyProductAttribute("verbertimstring")]
 [assembly: System.Reflection.AssemblyTitleAttribute("verbertimstring")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
