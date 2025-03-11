@@ -1,0 +1,15 @@
+/var/www/html/csharp/stack/bin/Debug/net8.0/stack
+/var/www/html/csharp/stack/bin/Debug/net8.0/stack.deps.json
+/var/www/html/csharp/stack/bin/Debug/net8.0/stack.runtimeconfig.json
+/var/www/html/csharp/stack/bin/Debug/net8.0/stack.dll
+/var/www/html/csharp/stack/bin/Debug/net8.0/stack.pdb
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.GeneratedMSBuildEditorConfig.editorconfig
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.AssemblyInfoInputs.cache
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.AssemblyInfo.cs
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.csproj.CoreCompileInputs.cache
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.sourcelink.json
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.dll
+/var/www/html/csharp/stack/obj/Debug/net8.0/refint/stack.dll
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.pdb
+/var/www/html/csharp/stack/obj/Debug/net8.0/stack.genruntimeconfig.cache
+/var/www/html/csharp/stack/obj/Debug/net8.0/ref/stack.dll
